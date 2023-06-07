@@ -23,7 +23,7 @@
 * twitter :[@UmeshMahto](https://www.umeshMahto.com)
 * Github :[@umeshgithub](https://www.umeshgithub.com)
 
-:wave: # Contributing
+ # Contributing
 Contributions, issue and feature requests are welcome <br/> 
 feel freeto check [issues pages](https://www.umeshMahto.com)
 
